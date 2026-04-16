@@ -4,7 +4,7 @@
 
 A multi-tier hybrid GIS architecture combining on-premise raster processing, cloud-hosted feature services, and browser-based geospatial analytics to deliver an interactive environmental monitoring dashboard for the Eastern Mau Forest Reserve, Kenya.
 
-**Live deployment**: [droneverse.pro/dashboard](https://droneverse.pro/dashboard/)
+**Live deployment**: [papayai.droneverse.pro/dashboard](https://papayai.droneverse.pro/dashboard/)
 
 ---
 
@@ -176,4 +176,4 @@ User Browser ──HTTPS──▶ Apache (droneverse.pro)
 
 **Mike Papayai Passiany**
 MSc Geographic Information Systems — University of Nairobi
-[LinkedIn](https://www.linkedin.com/in/59b641a2/) | [Portfolio](https://droneverse.pro/portfolio/) | [Dashboard](https://droneverse.pro/dashboard/)
+[LinkedIn](https://www.linkedin.com/in/59b641a2/) | [Portfolio](https://papayai.droneverse.pro/portfolio/) | [Dashboard](https://papayai.droneverse.pro/dashboard/)
